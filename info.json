@@ -1,0 +1,22 @@
+{
+    "name": "Thomas Caldwell",
+    "website": "https://thomasjfcaldwell.com",
+    "linkedin": "https://www.linkedin.com/in/thomascaldwell-huntingtonbeach/",
+    "github": "thomasjfcaldwell",
+    "email": "thomasjfcaldwell@gmail.com",
+    "resume": "https://thomasjfcaldwell.github.io/assets/thomas-caldwell-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Wordpress",
+        "CSS",
+        "HTML",
+        "Abode Creative Cloud",
+
+    ],
+    "otherSkills": [
+        "soccer",
+        "Surfing",
+        "Dog walking"
+    ]
+}
